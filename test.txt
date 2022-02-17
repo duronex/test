@@ -3,6 +3,7 @@ test2
 <script>
     function login(){
         alert("로그인입니다.#3");
+        alert("로그인입니다.#4");
     }
 </script>
 test3
