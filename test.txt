@@ -5,6 +5,7 @@ test2
         alert("로그인입니다.#3");
         alert("로그인입니다.#4");
     }
+    function add1(){}
 </script>
 test3
 test4
