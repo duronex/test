@@ -1,8 +1,8 @@
 test1
 test2
 <script>
-    function test(){
-        
+    function login(){
+        alert("로그인입니다.");
     }
 </script>
 test3
