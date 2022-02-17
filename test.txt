@@ -1,6 +1,9 @@
 test1
 test2
 <script>
+    function test(){
+        
+    }
 </script>
 test3
 test4
