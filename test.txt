@@ -3,7 +3,12 @@ test2
 <script>
     function login(){
         alert("로그인입니다.#4");
+        로그인1
     }
+    function add1(){}
+    function add2(){}
+    function add3(){}
+    function add4(){}
 </script>
 test3
 test4
