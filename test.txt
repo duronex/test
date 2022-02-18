@@ -9,6 +9,7 @@ test2
     function add1(){}
     function add2(){}
     function add3(){}
+    function add4(){}
 </script>
 test3
 test4
